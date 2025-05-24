@@ -1,2 +1,0 @@
-# nullifai
-my website
